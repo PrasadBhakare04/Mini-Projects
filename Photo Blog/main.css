@@ -1,0 +1,10 @@
+img {
+    width: 30%;
+    margin: calc(10%/6);
+}
+
+h1 {
+    border-bottom: solid gray 2px;
+    width: 30%;
+    margin: calc(10%/6);
+}
